@@ -12,3 +12,4 @@
 <channel id="beINSportsPremium1.qa"><display-name>BEIN PREMIUM 1 FHD H265</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png"/><url>https://bein.com</url></channel>
 <channel id="beINSportsPremium2.qa"><display-name>BEIN PREMIUM 2 FHD H265</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png"/><url>https://bein.com</url></channel>
 <channel id="beINSportsPremium3.qa"><display-name>BEIN PREMIUM 3 FHD H265</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png"/><url>https://beinsports.com</url></channel>
+</tv>
