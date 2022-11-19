@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20221119">
+<channel id="beINSports1.qa"><display-name>BEIN SPORT 1 FHD H265</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/><url>https://bein.com</url></channel>
+<channel id="beINSports2.qa"><display-name>BEIN SPORT 2 FHD H265</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports3.qa"><display-name>BEIN SPORT 3 FHD H265</display-name><icon src="https://i.imgur.com/UYSMao3.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports4.qa"><display-name>BEIN SPORT 4 FHD H265</display-name><icon src="https://i.imgur.com/TmDS8Ie.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports5.qa"><display-name>BEIN SPORT 5 FHD H265</display-name><icon src="https://i.imgur.com/8gEqsEh.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports6.qa"><display-name>BEIN SPORT 6 FHD H265</display-name><icon src="https://i.imgur.com/4QTnRd3.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSports7.qa"><display-name>BEIN SPORT 7 FHD H265</display-name><icon src="https://i.imgur.com/ebnWhJm.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax1.qa"><display-name>BEIN MAX 1 1080 HEVC</display-name><icon src="https://i.imgur.com/FjWQjdy.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax2.qa"><display-name>BEIN MAX 2 1080 HEVC</display-name><icon src="https://i.imgur.com/5dBc5rn.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsMax3.qa"><display-name>BEIN MAX 3 1080 HEVC</display-name><icon src="https://i.imgur.com/ThcM2LE.png"/><url>https://nowplayer.now.com</url></channel>
+<channel id="beINSportsNBA.qa"><display-name>beIN Sports NBA</display-name><icon src="https://i.imgur.com/BBHo5fk.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsNews.qa"><display-name>beIN Sports News</display-name><icon src="https://i.imgur.com/EWRAnnw.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsPremium1.qa"><display-name>BEIN PREMIUM 1 FHD H265</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png"/><url>https://bein.com</url></channel>
+<channel id="beINSportsPremium2.qa"><display-name>BEIN PREMIUM 2 FHD H265</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png"/><url>https://bein.com</url></channel>
+<channel id="beINSportsPremium3.qa"><display-name>BEIN PREMIUM 3 FHD H265</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsXtra1.qa"><display-name>beIN Sports Xtra 1</display-name><icon src="https://i.imgur.com/s5xwdKE.png"/><url>https://beinsports.com</url></channel>
+<channel id="beINSportsXtra2.qa"><display-name>beIN Sports Xtra 2</display-name><icon src="https://i.imgur.com/RXyDfyo.png"/><url>https://beinsports.com</url></channel>
 <channel id="2MInternational.ma"><display-name>2M International</display-name><icon src="https://i.imgur.com/UjtrAgV.png"/><url>https://tv.blue.ch</url></channel>
 <channel id="AlArabyTV2.uk"><display-name>Al Araby TV 2</display-name><icon src="https://i.imgur.com/pc0eSwY.png"/><url>https://elcinema.com</url></channel>
 <channel id="AlHayatTV.us"><display-name>Al Hayat TV</display-name><icon src="https://www.alhayat.tv/images/logo/main.34f5c635.png"/><url>https://elcinema.com</url></channel>
@@ -108,13 +125,6 @@
 <channel id="beINSeries1.qa"><display-name>beIN Series 1</display-name><icon src="https://i.imgur.com/nCkbPOD.png"/><url>https://elcinema.com</url></channel>
 <channel id="beINSeries2.qa"><display-name>beIN Series 2</display-name><icon src="https://i.imgur.com/c0B8bmf.png"/><url>https://elcinema.com</url></channel>
 <channel id="beINSports.qa"><display-name>beIN Sports</display-name><icon src="https://i.imgur.com/5EqTTyj.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSports1.qa"><display-name>beIN Sports 1</display-name><icon src="https://i.imgur.com/Vtk2cGI.png"/><url>https://bein.com</url></channel>
-<channel id="beINSports2.qa"><display-name>beIN Sports 2</display-name><icon src="https://i.imgur.com/vUJZSvs.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSports3.qa"><display-name>beIN Sports 3</display-name><icon src="https://i.imgur.com/UYSMao3.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSports4.qa"><display-name>beIN Sports 4</display-name><icon src="https://i.imgur.com/TmDS8Ie.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSports5.qa"><display-name>beIN Sports 5</display-name><icon src="https://i.imgur.com/8gEqsEh.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSports6.qa"><display-name>beIN Sports 6</display-name><icon src="https://i.imgur.com/4QTnRd3.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSports7.qa"><display-name>beIN Sports 7</display-name><icon src="https://i.imgur.com/ebnWhJm.png"/><url>https://beinsports.com</url></channel>
 <channel id="beINSportsAFC.qa"><display-name>beIN Sports AFC</display-name><icon src="https://i.imgur.com/S1DNbRP.png"/><url>https://beinsports.com</url></channel>
 <channel id="beINSportsAFC1.qa"><display-name>beIN Sports AFC 1</display-name><icon src="https://i.imgur.com/n4uVBdH.png"/><url>https://beinsports.com</url></channel>
 <channel id="beINSportsAFC2.qa"><display-name>beIN Sports AFC 2</display-name><icon src="https://i.imgur.com/jpmsHuA.png"/><url>https://beinsports.com</url></channel>
@@ -125,15 +135,6 @@
 <channel id="beINSportsFrench1.qa"><display-name>beIN Sports French 1</display-name><icon src="https://i.imgur.com/F7Rv6IU.png"/><url>https://beinsports.com</url></channel>
 <channel id="beINSportsFrench2.qa"><display-name>beIN Sports French 2</display-name><icon src="https://i.imgur.com/IknP5Aa.png"/><url>https://beinsports.com</url></channel>
 <channel id="beINSportsFrench3.qa"><display-name>beIN Sports French 3</display-name><icon src="https://i.imgur.com/OAUkKAQ.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax1.qa"><display-name>beIN Sports Max 1</display-name><icon src="https://i.imgur.com/FjWQjdy.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax2.qa"><display-name>beIN Sports Max 2</display-name><icon src="https://i.imgur.com/5dBc5rn.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsMax3.qa"><display-name>beIN Sports Max 3</display-name><icon src="https://i.imgur.com/ThcM2LE.png"/><url>https://nowplayer.now.com</url></channel>
-<channel id="beINSportsNBA.qa"><display-name>beIN Sports NBA</display-name><icon src="https://i.imgur.com/BBHo5fk.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsNews.qa"><display-name>beIN Sports News</display-name><icon src="https://i.imgur.com/EWRAnnw.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsPremium1.qa"><display-name>beIN Sports Premium 1</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png"/><url>https://bein.com</url></channel>
-<channel id="beINSportsPremium3.qa"><display-name>beIN Sports Premium 3</display-name><icon src="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsXtra1.qa"><display-name>beIN Sports Xtra 1</display-name><icon src="https://i.imgur.com/s5xwdKE.png"/><url>https://beinsports.com</url></channel>
-<channel id="beINSportsXtra2.qa"><display-name>beIN Sports Xtra 2</display-name><icon src="https://i.imgur.com/RXyDfyo.png"/><url>https://beinsports.com</url></channel>
 <programme start="20221118235000 +0000" stop="20221119003000 +0000" channel="2MInternational.ma"><title lang="ar">Al Waad</title><desc lang="ar">Torn between his promise to marry his dying brother&apos;s fiancee, Nariman, and the love for his wife, Idris is forced to lead a double life, one with Nariman and the other with his unsuspecting wife.</desc><icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/3/p21168445ih10aa_Iconic_w1920.webp"/></programme>
 <programme start="20221119003000 +0000" stop="20221119020500 +0000" channel="2MInternational.ma"><title lang="ar">Dream Artist</title><desc lang="ar">Bringing you the best in television and entertainment programming.</desc><icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/3/p23100204ih8aa_Iconic_w1920.webp"/></programme>
 <programme start="20221119020500 +0000" stop="20221119030000 +0000" channel="2MInternational.ma"><title lang="ar">Bagheet Hayatak</title><desc lang="ar">Bringing you the best in television and entertainment programming.</desc><icon src="https://services.sg101.prd.sctv.ch/content/images/tv/program/3/p23261590bdh8aa_Backdrop_w1920.webp"/></programme>
